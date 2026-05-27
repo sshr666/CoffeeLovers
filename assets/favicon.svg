@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Coffee Lovers favicon">
+  <rect width="64" height="64" rx="14" fill="#2a1710"/>
+  <path d="M18 24h25v13a12 12 0 0 1-12 12h-1a12 12 0 0 1-12-12V24Z" fill="#fff7ed"/>
+  <path d="M43 28h4a6 6 0 0 1 0 12h-4" fill="none" stroke="#fff7ed" stroke-width="5" stroke-linecap="round"/>
+  <path d="M24 20c-2-3 2-5 0-8M33 20c-2-3 2-5 0-8" fill="none" stroke="#f5dfc2" stroke-width="4" stroke-linecap="round"/>
+  <path d="M24 31c4 4 10 4 14 0" fill="none" stroke="#7a4a25" stroke-width="4" stroke-linecap="round"/>
+</svg>
